@@ -1,2 +1,6 @@
 .env
 test.ipynb
+.chainlit/*
+__pycache__/*
+pdfs/*
+record_manager_cache.sql
